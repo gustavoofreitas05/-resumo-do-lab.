@@ -1,4 +1,4 @@
-# -resumo-do-lab.
+# RESUMO-DO-LAB
 ☁️ Resumo do Curso – Fundamentos de Computação em Nuvem
 
 Este repositório foi criado para registrar o que aprendi durante o curso sobre Computação em Nuvem na DIO.
